@@ -17,12 +17,12 @@
 		<ie.version></ie.version>
 		<threads>1</threads>
 		<!-- allowed browsers are firefox, chrome, ie, phontomjs -->
-		<browser>phantomjs</browser>
+		<browser>chrome</browser>
 		<!-- valid browser bit for chrome is 32 alone -->
-		<browserbit>64</browserbit>
+		<browserbit>32</browserbit>
 		<!-- the following are the browser versions that are getting used chrome 
 			2.27 ie 2.53.1 firefox 0.13, phantomjs 2.1.1 -->
-		<browserversion>2.1.1</browserversion>
+		<browserversion>2.27</browserversion>
 
 
 	</properties>
