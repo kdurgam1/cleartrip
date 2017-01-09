@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="9009" started-at="2017-01-09T18:34:42Z" finished-at="2017-01-09T18:34:51Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="9009" started-at="2017-01-09T18:34:42Z" finished-at="2017-01-09T18:34:51Z">
+      <class name="com.cleartrip.BasicTestWD">
+        <test-method status="PASS" signature="instantiateDriverObject()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="instantiateDriverObject" is-config="true" duration-ms="15" started-at="2017-01-10T00:04:42Z" finished-at="2017-01-10T00:04:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- instantiateDriverObject -->
+        <test-method status="PASS" signature="googleCheeseExample()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="googleCheeseExample" duration-ms="5552" started-at="2017-01-10T00:04:42Z" finished-at="2017-01-10T00:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleCheeseExample -->
+        <test-method status="PASS" signature="googleCheeseExample1()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="googleCheeseExample1" duration-ms="5066" started-at="2017-01-10T00:04:42Z" finished-at="2017-01-10T00:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleCheeseExample1 -->
+        <test-method status="PASS" signature="googleCurdExample()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="googleCurdExample" duration-ms="5533" started-at="2017-01-10T00:04:42Z" finished-at="2017-01-10T00:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleCurdExample -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="clearCookies" is-config="true" duration-ms="9" started-at="2017-01-10T00:04:47Z" finished-at="2017-01-10T00:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="googleCurdExample1()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="googleCurdExample1" duration-ms="1507" started-at="2017-01-10T00:04:47Z" finished-at="2017-01-10T00:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleCurdExample1 -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="clearCookies" is-config="true" duration-ms="6" started-at="2017-01-10T00:04:47Z" finished-at="2017-01-10T00:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="googleDrinkExample()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="googleDrinkExample" duration-ms="1420" started-at="2017-01-10T00:04:47Z" finished-at="2017-01-10T00:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleDrinkExample -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="clearCookies" is-config="true" duration-ms="4" started-at="2017-01-10T00:04:47Z" finished-at="2017-01-10T00:04:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="googleDrinkExample1()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="googleDrinkExample1" duration-ms="1135" started-at="2017-01-10T00:04:47Z" finished-at="2017-01-10T00:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleDrinkExample1 -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="clearCookies" is-config="true" duration-ms="6" started-at="2017-01-10T00:04:48Z" finished-at="2017-01-10T00:04:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="googleMilkExample()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="googleMilkExample" duration-ms="1452" started-at="2017-01-10T00:04:48Z" finished-at="2017-01-10T00:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleMilkExample -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="clearCookies" is-config="true" duration-ms="4" started-at="2017-01-10T00:04:49Z" finished-at="2017-01-10T00:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="googleMilkExample1()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="googleMilkExample1" duration-ms="1129" started-at="2017-01-10T00:04:49Z" finished-at="2017-01-10T00:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleMilkExample1 -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="clearCookies" is-config="true" duration-ms="4" started-at="2017-01-10T00:04:49Z" finished-at="2017-01-10T00:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="googleSandExample()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="googleSandExample" duration-ms="1088" started-at="2017-01-10T00:04:49Z" finished-at="2017-01-10T00:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSandExample -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="clearCookies" is-config="true" duration-ms="3" started-at="2017-01-10T00:04:50Z" finished-at="2017-01-10T00:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="googleSandExample1()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="googleSandExample1" duration-ms="1159" started-at="2017-01-10T00:04:50Z" finished-at="2017-01-10T00:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSandExample1 -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="clearCookies" is-config="true" duration-ms="5" started-at="2017-01-10T00:04:50Z" finished-at="2017-01-10T00:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="clearCookies" is-config="true" duration-ms="5" started-at="2017-01-10T00:04:50Z" finished-at="2017-01-10T00:04:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="clearCookies()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="clearCookies" is-config="true" duration-ms="5" started-at="2017-01-10T00:04:51Z" finished-at="2017-01-10T00:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearCookies -->
+        <test-method status="PASS" signature="closeDriverObjects()[pri:0, instance:com.cleartrip.BasicTestWD@380fb434]" name="closeDriverObjects" is-config="true" duration-ms="2494" started-at="2017-01-10T00:04:51Z" finished-at="2017-01-10T00:04:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverObjects -->
+      </class> <!-- com.cleartrip.BasicTestWD -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

@@ -1,0 +1,92 @@
+[INFO] Scanning for projects...
+[INFO]                                                                         
+[INFO] ------------------------------------------------------------------------
+[INFO] Building cleartrip 1.0-SNAPSHOT
+[INFO] ------------------------------------------------------------------------
+[INFO] 
+[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ cleartrip ---
+[INFO] Deleting F:\seleniumprojects\cleartrip\target
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ cleartrip ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] skip non existing resourceDirectory F:\seleniumprojects\cleartrip\src\main\resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ cleartrip ---
+[INFO] Nothing to compile - all classes are up to date
+[INFO] 
+[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ cleartrip ---
+[INFO] Using 'UTF-8' encoding to copy filtered resources.
+[INFO] Copying 6 resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ cleartrip ---
+[INFO] Changes detected - recompiling the module!
+[INFO] Compiling 6 source files to F:\seleniumprojects\cleartrip\target\test-classes
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ cleartrip ---
+[INFO] 
+[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ cleartrip ---
+[WARNING] JAR will be empty - no content was marked for inclusion!
+[INFO] Building jar: F:\seleniumprojects\cleartrip\target\cleartrip-1.0-SNAPSHOT.jar
+[INFO] 
+[INFO] --- maven-failsafe-plugin:2.19.1:integration-test (default) @ cleartrip ---
+
+-------------------------------------------------------
+ T E S T S
+-------------------------------------------------------
+Running com.cleartrip.BasicTestWD
+64
+2.1.1
+F:\seleniumprojects\cleartrip\src\test\resources\drivers\phantomjs_2.1.1_64\phantomjs.exe
+ 
+ 
+ Current Operating System: WINDOWS 10
+ 
+ Current Architecture: AMD64
+ Current Operating System: WINDOWS 10
+ Current Browser Selection: PHANTOMJS
+ 
+ Current Operating System: WINDOWS 10
+ Current Architecture: AMD64
+ Current Architecture: AMD64
+ Current Browser Selection: PHANTOMJS
+ 
+ Current Browser Selection: PHANTOMJS
+ 
+page tile is Google
+page tile is Google
+page tile is Google
+page tile is Cheese1 - Google Search
+page tile is Google
+page tile is Curd - Google Search
+page tile is Cheese - Google Search
+page tile is Google
+page tile is Google
+page tile is Curd1 - Google Search
+page tile is Drink1 - Google Search
+page tile is Drink - Google Search
+page tile is Google
+page tile is Google
+page tile is Google
+page tile is Milk1 - Google Search
+page tile is Milk - Google Search
+page tile is Sand - Google Search
+page tile is Google
+page tile is Sand1 - Google Search
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.155 sec - in com.cleartrip.BasicTestWD
+
+Results :
+
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0
+
+[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent! The file encoding for reports output files should be provided by the POM property ${project.reporting.outputEncoding}.
+[INFO] 
+[INFO] --- maven-install-plugin:2.4:install (default-install) @ cleartrip ---
+[INFO] Installing F:\seleniumprojects\cleartrip\target\cleartrip-1.0-SNAPSHOT.jar to F:\seleniumprojects\mavenlocalrepository\.m2\repository\com\cleartrip\cleartrip\1.0-SNAPSHOT\cleartrip-1.0-SNAPSHOT.jar
+[INFO] Installing F:\seleniumprojects\cleartrip\pom.xml to F:\seleniumprojects\mavenlocalrepository\.m2\repository\com\cleartrip\cleartrip\1.0-SNAPSHOT\cleartrip-1.0-SNAPSHOT.pom
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 27.803 s
+[INFO] Finished at: 2017-01-10T00:04:54+05:30
+[INFO] Final Memory: 22M/207M
+[INFO] ------------------------------------------------------------------------
